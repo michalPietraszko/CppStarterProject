@@ -45,6 +45,7 @@ IncludeCategories:
   - Regex:           '^"'
     Priority:        3
 IndentCaseLabels: true
+IndentPPDirectives: AfterHash
 KeepEmptyLinesAtTheStartOfBlocks: false
 MaxEmptyLinesToKeep: 1
 NamespaceIndentation: None
